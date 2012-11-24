@@ -4,7 +4,7 @@ Real-Time MVC Dashboard Toolkit v0.08
 Author jb@openfeedportal.com
 
 **********************************************
-BUILD NOTES
+BUILD NOTES nnmnn
 **********************************************
 
 The build script process is driven by a set of pom.xmls that correspond to the openeed package builds:
